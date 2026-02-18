@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Gosto de tecnologia e programação e estou sempre tentando entender como as coisas realmente funcionam por trás do código. Tenho um interesse especial por estruturas de dados, porque eu sou fascinado na ideia de organizar a informação da melhor forma possível para resolver problemas. Também sou apaixonado pela matemática, porque vejo nela uma perfeição lógica — tudo faz sentido quando você entende os princípios.</p>
+<p align="left">Gosto de tecnologia e estou sempre tentando entender como as coisas realmente funcionam por trás do código. Tenho um interesse especial por estruturas de dados, porque eu sou fascinado na ideia de organizar a informação da melhor forma possível para resolver problemas. Também sou apaixonado pela matemática, porque vejo nela uma perfeição lógica — tudo faz sentido quando você entende os princípios.</p>
 
 ###
 
